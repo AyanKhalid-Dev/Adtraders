@@ -762,3 +762,8 @@ export default function Home() {
     </>
   );
 }
+
+export const metadata = {
+  title: "Abdullah Trading Co.",
+  description: "Abdullah Trading Hardware, V-Belts and bearings",
+};
